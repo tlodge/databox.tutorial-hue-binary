@@ -10,10 +10,10 @@
         "on ",
         " off"
     ],
-    "homepage": "https://github.com/tlodge/databox.demo-huebinary",
+    "homepage": "https://github.com/tlodge/databox.tutorial-hue-binary",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tlodge/databox.demo-huebinary.git"
+        "url": "git+https://github.com/tlodge/databox.tutorial-hue-binary.git"
     },
     "packages": [
         {
